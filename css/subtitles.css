@@ -17,8 +17,8 @@ div#subtitle {
     top: 0px;
     left: 0px;
     background: transparent;
-    font-family: "San Francisco",
-        "Helvetica Neue", "Helvetica",
+    font-family: "OpenDyslexic",
+        "OpenDyslexic", "OpenDyslexic",
         Arial, Sans-Serif;
     font-size: calc( 3vh + 3vw );
     font-weight: 200;
